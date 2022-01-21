@@ -32,6 +32,7 @@ Its computational time for training is around 22 milliseconds and computational 
 
 ### Support Vector Machine:
 In the four tests, the total number of errors is 4, 5, 4 and 2 respectively and the average is 3.75. 
+
 Its computational time for training is around 27 milliseconds and computational time for testing is 7 milliseconds.
 
 ## Conclusion
